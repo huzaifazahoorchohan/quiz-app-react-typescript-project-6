@@ -49,7 +49,7 @@
     color:#fff;
     transition: 0.3s;
 }
-.quiz-option button:hover{
+.quiz-option button:active{
     background-color: black;   
 }
 /* .retry-btn{
